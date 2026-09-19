@@ -3,8 +3,6 @@
 > **Author**: Nihal N  
 > **Track**: DevOps & Cloud Engineer  
 > **Category**: Cloud & DevOps Tech | CI/CD Pipeline Architecture  
-> **Timeline**: 15 Days | AI-Accelerated Innovation & Research Project
-
 ---
 
 ## Executive Summary
