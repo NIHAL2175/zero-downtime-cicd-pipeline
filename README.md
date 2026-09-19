@@ -1,8 +1,8 @@
 # Zero-Downtime CI/CD Pipeline
 
-> **Author**: Nihal N  
-> **Track**: DevOps & Cloud Engineer  
-> **Category**: CI/CD Pipeline Architecture  
+> **Author** : Nihal N  
+> **Track** : DevOps & Cloud Engineer  
+> **Category** : CI/CD Pipeline Architecture  
 ---
 
 ## Executive Summary
