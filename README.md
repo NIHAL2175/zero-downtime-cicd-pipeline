@@ -1,4 +1,4 @@
-# Project 1A: Zero-Downtime CI/CD Pipeline with Compliance Gates — NovaPay Digital Bank
+Zero-Downtime CI/CD Pipeline
 
 > **Author**: Nihal N  
 > **Track**: DevOps & Cloud Engineer  
