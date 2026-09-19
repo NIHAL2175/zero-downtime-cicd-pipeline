@@ -2,7 +2,7 @@
 
 > **Author**: Nihal N  
 > **Track**: DevOps & Cloud Engineer  
-> **Category**: Cloud & DevOps Tech | CI/CD Pipeline Architecture  
+> **Category**: CI/CD Pipeline Architecture  
 ---
 
 ## Executive Summary
